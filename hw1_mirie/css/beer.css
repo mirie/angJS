@@ -1,0 +1,22 @@
+.beer {
+  border: 1px dashed darkslategray;
+  padding: .35em;
+  margin-top: .5em;
+}
+
+.refrain {
+  margin: 0 .25em;
+  padding: .5em;
+}
+
+.refrain.even {
+  background-color: lightgoldenrodyellow;
+}
+
+.refrain.odd {
+  background-color: lightsteelblue;
+}
+
+.refrain.empty {
+  background-color: orangered;
+}
